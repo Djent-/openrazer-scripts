@@ -13,3 +13,8 @@ Bugs: The script occassionally stops working, starts flashing rapidly, and then 
 Works with: Firefly, Deathadder (probably all mice), probably other devices
 
 Effect: Synchronizes the start of the spectrum glow.
+
+## bind_switch_tab.py
+Works with: Deathadder Elite
+
+Effect: Rebinds the left side buttons to cycle through browser tabs. The front button does Ctrl + Tab, the back button does Ctrl + Shift + Tab. This does override the default forward/back behavior the buttons have.
