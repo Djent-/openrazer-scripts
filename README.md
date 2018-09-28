@@ -25,3 +25,8 @@ Bugs: Keeps working even after you kill the script? Idk sometimes. If you start 
 Works with: All keyboards
 
 Effect: Loops through each led, incrementing the hue a bit each time
+
+## matrix.py
+Works with: All keyboards
+
+Effect: Creates a matrix-style green columns scrolling down the keyboard. Unfortunately, the columns on keyboards aren't particularly straight because of the Tab, Caps Lock, and Shift keys, so it's kind of diagonal and bendy in some spots.
