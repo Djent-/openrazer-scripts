@@ -20,3 +20,8 @@ Works with: Deathadder Elite
 Effect: Rebinds the left side buttons to cycle through browser tabs. The front button does Ctrl + Tab, the back button does Ctrl + Shift + Tab. This does override the default forward/back behavior the buttons have.
 
 Bugs: Keeps working even after you kill the script? Idk sometimes. If you start it up multiple times, it will cycle through tabs equal to the number of instances of the script running. Makes sense, right?
+
+## keyboard_rows.py
+Works with: All keyboards
+
+Effect: Loops through each led, incrementing the hue a bit each time
