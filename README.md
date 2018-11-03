@@ -21,6 +21,8 @@ Effect: Rebinds the left side buttons to cycle through browser tabs. The front b
 
 Bugs: Keeps working even after you kill the script? Idk sometimes. If you start it up multiple times, it will cycle through tabs equal to the number of instances of the script running. Makes sense, right?
 
+*This is actually permanent lol I don't know why*
+
 ## keyboard_rows.py
 Works with: All keyboards
 
